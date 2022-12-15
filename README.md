@@ -1,4 +1,4 @@
-O Prisioneiro dos Dados
+# O Prisioneiro dos Dados 
 De que serve o banco sem dados? Então vamos alimentar o banco!
 
 Com o banco de dados para o sistema hospitalar montado completamente, é necessário incluir dados para realizar os devidos testes e validar sua viabilidade quanto ao sistema. Nesta etapa, também é importante realizar a separação de alguns scripts iniciais para o banco, com os dados que serão necessários a um povoamento inicial do sistema.
